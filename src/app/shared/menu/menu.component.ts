@@ -35,13 +35,7 @@ export class MenuComponent {
       {
         label: 'Pipes personalizados',
         icon:'',
-        items: [
-          {
-            label: 'ejemplo',
-            icon: '',
-            routerLink: '/'
-          }
-        ]
+        routerLink: 'ordenar'
       }
     ];
   } 
